@@ -5,6 +5,6 @@
 
 #----------------------------------
 
-iadcontent.apple.com	
-iadsdk.apple.com	
-news.iadsdk.apple.com
+0.0.0.0 iadcontent.apple.com	
+0.0.0.0 iadsdk.apple.com	
+0.0.0.0 news.iadsdk.apple.com
