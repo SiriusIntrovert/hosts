@@ -1,0 +1,5 @@
+# Apple News Ads
+#----------------------------------
+iadcontent.apple.com	
+iadsdk.apple.com	
+news.iadsdk.apple.com
