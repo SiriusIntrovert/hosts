@@ -1,5 +1,10 @@
 # Apple News Ads
+
+# Additionally, Regex 
+# .+comscoreresearch.+
+
 #----------------------------------
+
 iadcontent.apple.com	
 iadsdk.apple.com	
 news.iadsdk.apple.com
